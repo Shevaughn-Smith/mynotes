@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "237664787436",
+    "project_id": "kdot-mynotes-project",
+    "storage_bucket": "kdot-mynotes-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237664787436:android:9b3bda6f603a38d1657ec9",
+        "android_client_info": {
+          "package_name": "com.swift.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237664787436-hoe7948g5npilj1fll76jtvc1hn70h96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmlou3lqIRCDY-7_6JBTD6Y_nEaQWVV3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237664787436-hoe7948g5npilj1fll76jtvc1hn70h96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
