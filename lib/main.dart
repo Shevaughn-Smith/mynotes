@@ -48,7 +48,6 @@ class HomePage extends StatelessWidget {
             } else {
               return const LoginView();
             }
-            print(user);
             return const Text('Done');
           default:
             return const CircularProgressIndicator(); // Display a circular progress bar
